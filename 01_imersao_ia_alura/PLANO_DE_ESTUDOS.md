@@ -2,7 +2,7 @@
 
 **Período:** 07/10/2025 - 11/10/2025  
 **Data de Início Real:** 06/10/2025  
-**Status Atual:** 🟡 Em Andamento (Aula 01 Concluída)
+**Status Atual:** 🟡 Em Andamento (Aula 02 Concluída)
 
 ## ✅ Checklist de Tarefas
 
@@ -13,19 +13,21 @@
   - [x] Fazer login na plataforma Alura
   - [x] Entrar no grupo exclusivo do WhatsApp
   - [x] Participar da Live de Abertura (06/10)
+  - [ ] Assistir à MasterClass para iniciantes
 
 - [x] **Aula 01 - 07/10** - Como criar imagens e vídeos com IA
   - [x] Assistir à aula
   - [x] Revisar anotações
+  - [x] Praticar com os exemplos (desafio concluído)
 
-- [ ] **Aula 02 - 08/10** - [Tema a ser revelado]
-  - [ ] Assistir à aula
-  - [ ] Revisar anotações  
-  - [ ] Praticar com os exemplos
+- [x] **Aula 02 - 08/10** - Aumente sua produtividade com IA no Google Workspace
+  - [x] Assistir à aula
+  - [x] Revisar anotações
+  - [ ] Praticar com os exemplos (Desafio pendente: criar e compartilhar site)
 
 - [ ] **Aula 03 - 09/10** - [Tema a ser revelado]
   - [ ] Assistir à aula
-  - [ ] Revisar anotações
+  - [ ] Revisar anotações  
   - [ ] Praticar com os exemplos
 
 - [ ] **Aula 04 - 10/10** - [Tema a ser revelado]
@@ -40,38 +42,12 @@
 - [ ] Compartilhar meus resultados nas redes sociais com #imersaoiagoogle
 - [ ] Definir próximos passos no aprendizado de IA
 
-## 📊 Metas Pessoais
-
-| Meta                                     | Status          | Data Alvo  |
-| ---------------------------------------- | --------------- | ---------- |
-| Completar todas as aulas                 | ⏳ Pendente     | 11/10/2025 |
-| Criar pelo menos 2 projetos práticos     | ⏳ Pendente     | 13/10/2025 |
-| Compartilhar o início da jornada no LinkedIn | ✅ Concluído     | 06/10/2025 |
-
-
 ## 🗓️ Cronograma Diário
 
-**06/10 (Segunda)**
-- [x] Noite: Assistir à Live de Abertura e fazer anotações
-
-**07/10 (Terça)**
-- [x] Noite: Assistir Aula 01 e fazer anotações
-
 **08/10 (Quarta)**
-- [ ] Noite: Assistir Aula 02 e fazer anotações
-- [ ] Noite: Participar da live do Panorama da IA
-
-**09/10 (Quinta)**
-- [ ] Noite: Assistir Aula 03 e fazer anotações
-- [ ] Noite: Revisar conceitos das aulas 1-3
-
-**10/10 (Sexta)**
-- [ ] Noite: Assistir Aula 04 (última aula!)
-- [ ] Noite: Consolidar todo o aprendizado
-
-**11-12/10 (Fim de semana)**
-- [ ] Criar projeto de conclusão
-- [ ] Preparar post para compartilhar experiência
+- [x] Noite: Assistir Aula 02 e fazer anotações
+- [ ] Noite: Participar da live de Carreira
+- [ ] Noite: Praticar conceitos (desafio da aula)
 
 ---
 *"Este plano vai evoluir conforme avanço na Imersão. O importante é manter a consistência!"*

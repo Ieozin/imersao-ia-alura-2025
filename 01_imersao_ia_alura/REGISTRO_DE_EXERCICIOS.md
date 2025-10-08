@@ -1,36 +1,30 @@
 # Registro de Exercícios - Imersão IA da Alura
 
-> *Este espaço está preparado para receber meus projetos, experimentos e aprendizados práticos durante a Imersão. A Aula 01 já trouxe um desafio interessante!*
+> *Registrando os desafios propostos. Um de cada vez.*
 
-## 🚦 Status Inicial
-
-**Aguardando a execução do desafio da Aula 01...**
-
-Assim que começar a trabalhar com os exemplos e projetos da Imersão, vou registrar aqui:
-- ✅ **Exercícios concluídos**
-- 🤔 **Dificuldades encontradas**
-- 💡 **Soluções descobertas**
-- 🎯 **Insights valiosos**
-
----
-
-## 📝 Template para Futuros Exercícios
-*(Vou usar este template para cada novo exercício que fizer)*
-
-### ## Desafio da Aula 01: Imagem Ilustrativa da Visão Computacional - Data: 07/10/2025, Status: Em Andamento
+### ## Desafio da Aula 01: Imagem Ilustrativa - Data: 07/10/2025, Status: ✅ Concluído
 
 #### 📋 Descrição
-O desafio da Aula 01 foi criar uma imagem com o Gemini que ilustre os conceitos da aula sobre Visão Computacional, incluindo o texto "Imersão IA Google Gemini", e compartilhá-la no LinkedIn.
+O desafio foi criar uma imagem com o Gemini que ilustrasse os conceitos da aula sobre Visão Computacional e compartilhá-la no LinkedIn.
 
-#### 🛠️ O Que Fiz (Até agora)
-- [x] Entendi o conceito de usar o Gemini para geração de imagens.
-- [x] Aprendi a usar prompts específicos e a refiná-los com o próprio Gemini.
-
-#### ❌ Análise dos Erros (se houver)
-*Anotações em andamento...*
-
-#### 🎉 Conquistas e Insights
-*Anotações em andamento...*
+#### 🛠️ O Que Fiz
+- Usei o Gemini para gerar algumas opções de imagem.
+- Pedi para ele mesmo refinar o prompt para ter um resultado melhor.
+- Escolhi a imagem e postei no LinkedIn com a hashtag.
 
 ---
-*"Os primeiros registros chegarão em breve! Cada erro será uma oportunidade de aprender."*
+
+### ## Desafio da Aula 02: Site para o Café - Data: 08/10/2025, Status: ⏳ Em Andamento
+
+#### 📋 Descrição
+Criar uma landing page para o "Café com Aroma de Malware" usando o modo Canvas do Gemini. O objetivo é compartilhar o link do site gerado e o prompt utilizado.
+
+#### 🛠️ O Que Preciso Fazer
+- [ ] Ativar o modo Canvas no Gemini.
+- [ ] Criar um prompt detalhado, talvez usando um site de inspiração como o da Apple, e incluindo a logo que criei na Aula 01.
+- [ ] Gerar o site.
+- [ ] Obter o link compartilhável.
+- [ ] Postar no LinkedIn e compartilhar o prompt no Discord.
+
+---
+*"Um desafio por dia. Sem pressa."*
