@@ -2,48 +2,49 @@
 
 ## 📋 Resumo do Guia
 
-Antes mesmo das aulas começarem, a Alura disponibilizou um Guia de Mergulho completo para nos preparar. Esses foram os pontos que mais me chamaram a atenção:
+A Alura enviou um guia antes do início das aulas. Pontos principais:
 
 ### 🤿 O Universo da IA e Gemini
-- **IA não é mais futurista**: Já está transformando o mercado e criando novas profissões
-- **Gemini é a IA multimodal do Google**: Capaz de entender texto, imagens, áudio e vídeo
-- **Três versões principais**: Ultra (mais poderosa), Pro (versátil), Nano (para dispositivos móveis)
+* **IA já é realidade**: Está mudando o mercado e criando profissões.
+* **Gemini é a IA multimodal do Google**: Entende texto, imagem, áudio e vídeo.
+* **Três versões**: Ultra (mais forte), Pro (padrão), Nano (mobile).
 
-### 💻 Como Funcionará a Imersão
-- **Aulas diárias de 07 a 10/10**: Chegando por email por volta das 8h
-- **Conteúdo fica disponível até 13/10**: Depois fica restrito a alunos Alura
-- **Lives extras**: Abertura (06/10), Panorama da IA (08/10) e Oportunidades (13/10)
+### 💻 Como vai Funcionar
+* **Aulas diárias de 07 a 10/10**: Chegam por email de manhã.
+* **Conteúdo disponível até 13/10**: Depois, só para alunos Alura.
+* **Lives extras**: Abertura (06/10), Panorama da IA (08/10) e Oportunidades (13/10).
 
 ### 🎯 O Que Vamos Aprender
-- LLMs e funcionamento do Gemini
-- Engenharia de prompts e criação de Gems
-- Automação com N8N e integração com Google Workspace
-- Construção de agentes de IA completos
+* LLMs e Gemini.
+* Engenharia de prompts.
+* Automação com N8N e integração com Workspace.
+* Construção de agentes de IA.
 
 ## 💭 Meu Entendimento Pessoal
 
-**"Ainda estou processando a dimensão disso tudo..."**
+**"É bastante coisa pra assimilar em pouco tempo."**
 
-Confesso que quando vi a lista completa de tópicos, senti uma mistura de empolgação e aquela ansiedade de quem está começando algo novo. Alguns insights que já tenho:
+Quando vi a lista de tópicos, a primeira coisa que pensei foi na correria que vai ser. Alguns pontos que ficaram claros:
 
-- **A IA Generativa é mais acessível do que imaginava**: Pelo que entendi, não preciso ser expert em programação para começar a usar o Gemini
-- **O mercado realmente está mudando**: As profissões listadas (Especialista em IA, Sustentabilidade, BI) mostram como precisamos nos adaptar
-- **A parte prática me anima mais**: Criar projetos reais desde o início vai tornar o aprendizado muito mais significativo
+* **A IA Generativa parece ser acessível**: Pelo visto, não preciso ser um gênio da programação para começar a usar o Gemini, o que é um alívio.
+* **O mercado está mudando mesmo**: As profissões listadas (Especialista em IA, Sustentabilidade, BI) são um sinal claro de que preciso me atualizar.
+* **O foco na prática é bom**: Fazer projetos reais ajuda a fixar o conteúdo melhor do que só ficar na teoria.
 
-### 🎪 Pontos-Chave que Quero Relembrar
+### 🎪 Pontos-Chave
+
 > "Dominar essas ferramentas pode ser um fator-chave para impulsionar a sua carreira."
 
-Essa frase do Guia ficou ecoando na minha mente. Não se trata apenas de aprender uma tecnologia nova, mas de desenvolver habilidades que serão cada vez mais valorizadas.
+Essa frase do guia é o resumo de tudo. É sobre desenvolver uma habilidade que o mercado vai cobrar cada vez mais.
 
 > "O período de 4 dias da Imersão é apenas o primeiro passo."
 
-Isso me trouxe alívio! Significa que posso me concentrar em aprender os fundamentos sem a pressão de precisar dominar tudo imediatamente.
+Isso tira um pouco da pressão. O foco é pegar os fundamentos agora, sem a neura de ter que sair daqui um especialista.
 
-## 🔗 Materiais de Pré-Imersão que Quero Explorar
+## 🔗 Materiais para Ver Depois
 
 - [ ] Artigo "O que é o Google Gemini"
-- [ ] Podcast "Projetos de IA com Google Gemini" 
+- [ ] Podcast "Projetos de IA com Google Gemini"
 - [ ] Vídeo "O que é Machine Learning"
 - [ ] Artigo "Ética e Inteligência Artificial"
 
-*Anotações em constante evolução. Volto aqui após assistir às primeiras aulas!*
+*Anotações em constante evolução.*

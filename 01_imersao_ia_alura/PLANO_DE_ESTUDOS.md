@@ -1,53 +1,45 @@
-# Plano de Estudos: Imersão IA da Alura - Status: EM ANDAMENTO
+# Plano de Estudos: Imersão IA da Alura
 
 **Período:** 07/10/2025 - 11/10/2025  
-**Data de Início Real:** 06/10/2025  
-**Status Atual:** 🟡 Em Andamento (Aula 02 Concluída)
+**Status Atual:** 🟡 Em Andamento
 
 ## ✅ Checklist de Tarefas
 
 ### Fase 1: Conteúdo e Prática
 
-- [x] **Pré-Imersão**
-  - [x] Ler o Guia de Mergulho completo
-  - [x] Fazer login na plataforma Alura
-  - [x] Entrar no grupo exclusivo do WhatsApp
-  - [x] Participar da Live de Abertura (06/10)
-  - [ ] Assistir à MasterClass para iniciantes
+* [x] **Pré-Imersão**
+    * [x] Ler o Guia de Mergulho
+    * [x] Fazer login na plataforma
+    * [x] Entrar no grupo do WhatsApp
+    * [x] Participar da Live de Abertura (06/10)
+    * [ ] Assistir à MasterClass para iniciantes
 
-- [x] **Aula 01 - 07/10** - Como criar imagens e vídeos com IA
-  - [x] Assistir à aula
-  - [x] Revisar anotações
-  - [x] Praticar com os exemplos (desafio concluído)
+* [x] **Aula 01 - 07/10** - Imagens e Vídeos com IA
+    * [x] Assistir à aula
+    * [x] Fazer anotações
+    * [x] Fazer o desafio
 
-- [x] **Aula 02 - 08/10** - Aumente sua produtividade com IA no Google Workspace
-  - [x] Assistir à aula
-  - [x] Revisar anotações
-  - [ ] Praticar com os exemplos (Desafio pendente: criar e compartilhar site)
+* [x] **Aula 02 - 08/10** - Produtividade no Workspace
+    * [x] Assistir à aula
+    * [x] Fazer anotações
+    * [ ] Fazer o desafio
 
-- [ ] **Aula 03 - 09/10** - [Tema a ser revelado]
-  - [ ] Assistir à aula
-  - [ ] Revisar anotações  
-  - [ ] Praticar com os exemplos
+* [ ] **Aula 03 - 09/10** - [Tema a ser revelado]
+* [ ] **Aula 04 - 10/10** - [Tema a ser revelado]
 
-- [ ] **Aula 04 - 10/10** - [Tema a ser revelado]
-  - [ ] Assistir à aula
-  - [ ] Revisar anotações
-  - [ ] Praticar com os exemplos
+### Fase 2: Pós-Aulas
 
-### Fase 2: Revisão e Aprofundamento
+* [ ] Revisar todas as anotações
+* [ ] Participar da live final (13/10)
+* [ ] Postar resultados finais nas redes sociais
+* [ ] Definir próximos passos
 
-- [ ] Revisar todas as anotações da semana
-- [ ] Participar da live final sobre oportunidades (13/10)
-- [ ] Compartilhar meus resultados nas redes sociais com #imersaoiagoogle
-- [ ] Definir próximos passos no aprendizado de IA
+## 🗓️ Cronograma
 
-## 🗓️ Cronograma Diário
-
-**08/10 (Quarta)**
-- [x] Noite: Assistir Aula 02 e fazer anotações
-- [ ] Noite: Participar da live de Carreira
-- [ ] Noite: Praticar conceitos (desafio da aula)
+* **08/10 (Quarta)**
+    * [x] Noite: Assistir Aula 02 e fazer anotações
+    * [ ] Noite: Participar da live de Carreira
+    * [ ] Noite: Fazer o desafio da aula
 
 ---
-*"Este plano vai evoluir conforme avanço na Imersão. O importante é manter a consistência!"*
+*"O plano é seguir o cronograma e manter a consistência."*
