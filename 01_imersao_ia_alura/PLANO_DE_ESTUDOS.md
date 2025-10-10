@@ -1,45 +1,29 @@
 # Plano de Estudos: Imersão IA da Alura
 
 **Período:** 07/10/2025 - 11/10/2025  
-**Status Atual:** 🟡 Em Andamento
+**Status Atual:** 🟡 Em Andamento (Aula 03 Concluída)
 
 ## ✅ Checklist de Tarefas
 
 ### Fase 1: Conteúdo e Prática
 
-* [x] **Pré-Imersão**
-    * [x] Ler o Guia de Mergulho
-    * [x] Fazer login na plataforma
-    * [x] Entrar no grupo do WhatsApp
-    * [x] Participar da Live de Abertura (06/10)
-    * [ ] Assistir à MasterClass para iniciantes
-
 * [x] **Aula 01 - 07/10** - Imagens e Vídeos com IA
-    * [x] Assistir à aula
-    * [x] Fazer anotações
-    * [x] Fazer o desafio
-
 * [x] **Aula 02 - 08/10** - Produtividade no Workspace
+* [x] **Aula 03 - 09/10** - Deep Research e Aprendizado Guiado
     * [x] Assistir à aula
     * [x] Fazer anotações
-    * [ ] Fazer o desafio
+    * [ ] Fazer o desafio (testar as novas ferramentas)
 
-* [ ] **Aula 03 - 09/10** - [Tema a ser revelado]
 * [ ] **Aula 04 - 10/10** - [Tema a ser revelado]
 
 ### Fase 2: Pós-Aulas
-
-* [ ] Revisar todas as anotações
-* [ ] Participar da live final (13/10)
-* [ ] Postar resultados finais nas redes sociais
-* [ ] Definir próximos passos
+*Anotações em andamento...*
 
 ## 🗓️ Cronograma
 
-* **08/10 (Quarta)**
-    * [x] Noite: Assistir Aula 02 e fazer anotações
-    * [ ] Noite: Participar da live de Carreira
-    * [ ] Noite: Fazer o desafio da aula
+* **09/10 (Quinta)**
+    * [x] Noite: Assistir Aula 03 e fazer anotações
+    * [ ] Noite: Testar o Deep Research ou o Aprendizado Guiado com um tema pessoal
 
 ---
 *"O plano é seguir o cronograma e manter a consistência."*
