@@ -2,26 +2,22 @@
 
 > *Registrando os desafios propostos. Um de cada vez.*
 
-### ## Desafio Aula 01: Imagem Ilustrativa - Data: 07/10, Status: ✅ Concluído
-*Criação de imagem no Gemini sobre Visão Computacional e postagem no LinkedIn.*
+### ## Desafio Aula 03: Teste de Ferramentas - Data: 09/10, Status: ✅ Concluído
+*Teste da função "Aprendizado Guiado" com um conceito de programação e criação de um quiz.*
 
 ---
 
-### ## Desafio Aula 02: Site para o Café - Data: 08/10, Status: ✅ Concluído
-*Criação de landing page para o "Café com Aroma de Malware" no modo Canvas e compartilhamento do link.*
-
----
-
-### ## Desafio Aula 03: Teste de Ferramentas - Data: 09/10, Status: ⏳ Em Andamento
+### ## Desafio Aula 04: Chatbot Garçom - Data: 10/10, Status: ⏳ Em Andamento
 
 #### 📋 Descrição
-O desafio implícito da aula é aplicar as novas ferramentas. Vou testar a função de "Aprendizado Guiado" para um conceito de programação que tenho dificuldade.
+Criar um chatbot funcional para o "Café com Aroma de Malware" usando n8n e Gemini. O objetivo é compartilhar o link do chat no Discord.
 
 #### 🛠️ Próximos Passos
-* [ ] Escolher um tópico de programação (ex: "diferença entre `list` e `tuple` em Python").
-* [ ] Usar o "Aprendizado Guiado" para estudar o tópico.
-* [ ] Ao final, pedir para o Gemini `crie um quiz a respeito desse conteudo`.
-* [ ] Registrar aqui os insights do processo.
+* [ ] Seguir o passo a passo da aula para configurar o workflow no n8n.
+* [ ] Obter a chave de API do Google AI Studio.
+* [ ] Criar o system prompt do garçom virtual (usando o que já foi gerado).
+* [ ] Ativar o workflow e testar o link.
+* [ ] Compartilhar no Discord.
 
 ---
 *"Um desafio de cada vez."*
